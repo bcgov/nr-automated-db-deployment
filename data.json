@@ -1,0 +1,15 @@
+[
+  {
+    "repo_name": "nr-forests-access-management",
+    "branch_name": "main",
+    "folders": [
+      {
+        "name": "main",
+        "absolute_path": "server/flyway/sql",
+        "type": "flyway",
+        "extra_args": ""
+      }
+    ]
+  }
+
+]
